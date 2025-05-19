@@ -1,0 +1,58 @@
+Código_KA5,Descripción_Alemán,Traducción_Español,Equivalente_WRB
+YE,Ertragsbeeinflusste Böden,Suelos modificados por el hombre (productividad),Anthrosol
+MD,"Marschboden, degradiert",Suelo de marisma degradado,Stagnosol
+MK,"Marschboden, kalkhaltig",Suelo de marisma calcáreo,Stagnosol
+RQ,"Rohboden, Quartär",Suelo inicial en sedimentos cuaternarios,Regosol
+YU,"Umlandböden, anthropogen verändert",Suelo urbano modificado (antropogénico),Anthrosol
+MN,"Marschboden, nicht kalkhaltig",Suelo de marisma no calcáreo,Gleysol
+PP,Podsol,Podsol,Podzol
+GG,Gleyboden,Suelo hidromórfico por agua subterránea,Gleysol
+ZZ,Nicht zuordenbar / Sonderfall,No clasificable / categoría especial,
+YK,Kulturboden,Suelo de cultivo (antropogénico),Anthrosol
+PPe,"Podsol, erodiert",Podsol erosionado,Podzol
+SS,Stauwasserboden,Suelo con agua estancada,Stagnosol
+LL,Lessivierter Boden,Suelo lessivé,Luvisol
+BB,Braunerde,Suelo pardo,Cambisol
+MC,"Marschboden, carbonathaltig",Suelo de marisma con carbonatos,Gleysol
+TT,Terra fusca / Terrae calcis,Suelo con acumulación de arcilla y carbonatos,Vertisol
+KV,Pelosol,Suelo arcilloso muy compacto,Vertisol
+GGh,"Gleyboden, humos",Gley con horizonte húmico,Gleysol
+GH,Hydromorpher Gley,Gleysol hidromórfico,Gleysol
+BBh,Braunerde humos,Cambisol con humus,Cambisol
+MO,"Marschboden, organogen",Suelo de marisma con materia orgánica,Gleysol
+KH,Schwarzerde,Suelo negro,Chernozem
+LLh,Lessive humos,Luvisol húmico,Luvisol
+KM,Kalkmarschboden,Marisma calcárea,Gleysol
+YY,Technogene Böden,Suelos tecnógenos,Anthrosol
+LF,"Auenboden, flach",Suelo aluvial superficial,Fluvisol
+LLd,"Lessive, degradiert",Luvisol degradado,Luvisol
+RZ,"Rohboden, zwischenschicht",Suelo joven con capas intermedias,Regosol
+LFd,"Auenboden, degradierter",Suelo aluvial degradado,Fluvisol
+PPh,"Podsol, humosreich",Podsol con alto contenido en humus,Podzol
+GM,Gley-Marschboden,Marisma hidromórfica,Gleysol
+AB,A/C-Boden,Suelo con solo horizontes A y C,Regosol
+TC,Terra calcaris,Suelo calcáreo,Vertisol
+GGe,"Gleyboden, erodiert",Gleysol erosionado,Gleysol
+oZ,Ortstein-Podsol,Podsol con capa cementada,Podzol
+SH,Stauwasser-Humusboden,Suelo con agua estancada y contenido húmico,Stagnosol
+GGc,"Gleyboden, carbonathaltig",Gleysol con carbonatos,Gleysol
+BBn,"Braunerde, nährstoffreich",Cambisol rico en nutrientes,Cambisol
+GGi,"Gleyboden, initial",Gleysol incipiente,Gleysol
+GGa,"Gleyboden, anthropogen beeinflusst",Gleysol influenciado por el hombre,Gleysol
+AQ,"Auenboden, karbonathaltig",Suelo aluvial con carbonatos,Fluvisol
+KMu,"Kulturboden, Mull",Suelo cultivado con mull,Anthrosol
+GGw,"Gleyboden, wassergesättigt",Gleysol saturado de agua,Gleysol
+DD,Dünenboden,Suelo de dunas,Regosol
+BBc,"Braunerde, carbonathaltig",Cambisol con carbonatos,Cambisol
+AT,"Auenboden, tiefgründig",Suelo aluvial profundo,Phaeozem
+CF,Cambisol,Cambisol,Cambisol
+SG,Staugleysol / Staunasse Böden,Suelo hidromórfico por estancamiento,Stagnosol
+RR,"Rohboden, felsig",Suelo joven sobre roca,Leptosol
+AZ,"Auenboden, sauer",Suelo aluvial ácido,Fluvisol
+RN,"Rohboden, nährstoffarm",Suelo joven y pobre en nutrientes,Regosol
+GGg,"Gleyboden, grundwassernah",Gleysol con nivel freático cercano,Gleysol
+SSg,"Stauwasserboden, grundwassernah",Suelo con agua estancada y freático próximo,Stagnosol
+CFc,"Cambisol, carbonathaltig",Cambisol con carbonatos,Cambisol
+HN,Humusreicher Schwarzerde,Chernozem rico en humus,Chernozem
+YO,Oberboden aufgeschüttet,Horizonte superficial rellenado,Anthrosol
+SSc,"Stauwasserboden, carbonathaltig",Suelo con agua estancada y carbonatos,Stagnosol
