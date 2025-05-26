@@ -38,8 +38,8 @@ To extract data for German soils and analyze their water content, bulk density, 
 
 # 4. TOC_prediction
 
-- Develop a regression model to predict TOC
-- Analyze the influence of different factors on TOC content
+- Exploratory data analysis.
+- Analyze the influence of different factors on TOC content.
 - Running RandomForestClassifier model to predict TOC content in soil.
 
 
