@@ -8,22 +8,39 @@ Land use at time of sampling (A=cropland, G=grassland since at least 5 years, SO
 
 
 
-# 2. TOC_soil_type.
-## EXPLORATORY DATA ANALYSIS. Erste Bodenzustandserhebung Landwirtschaft – Kerndatensatz.
+# 2. TOC_Soil_Type
+## Exploratory Data Analysis – Erste Bodenzustandserhebung Landwirtschaft (Core Dataset)
 
-To extract data for German soils and analyze their water content, bulk density, TOC (Total Organic Carbon), and TN (Total Nitrogen) using descriptive statistics only, in order to describe them. Workflow:
+In this notebook, we apply various data analysis techniques to explore the potential relationship between soil types and their Total Organic Carbon (TOC) content. The dataset includes measurements from German agricultural soils, including water content, bulk density, TOC (Total Organic Carbon), and TN (Total Nitrogen).
+Workflow
 
 - Load the SITE and LABORATORY datasets.
-- Select the variables PointID, coordinates, land use, main soil type, and specific soil subtype from the SITE dataset.
-- Merge this dataframe with the LABORATORY dataframe using the attributes TOC, TN, bulk density, and water content from the LABORATORY dataset.
-- Perform Exploratory Data Analysis (EDA): Number of observations of each kind of soil TOC by soil type Scatter plot of TOC within the most common soil according to water content and bulk density (it can be done with each kind of soil). 3D plot of TOC in the most common soil, water content, and bulk density.
-- Modeling: Try regression models to predict the amount of TOC in cambisol based on its water content and bulk density.
-- GIS Visualization: Map the soil with the highest TOC values.
+
+- From the SITE dataset, select the following variables: PointID, coordinates, land use, main soil type, and specific soil subtype.
+
+- Merge this data with the LABORATORY dataset, using the variables: TOC, TN, bulk density, and water content.
+
+- Perform Exploratory Data Analysis (EDA):
+
+        Count the number of observations for each soil type and their corresponding TOC values.
+
+        Create scatter plots of TOC versus water content and bulk density for the most common soil type (and optionally for other types).
+
+        Generate a 3D plot of TOC, water content, and bulk density for the most common soil type.
+
+- Modeling:
+
+        Apply regression models to predict TOC values in Cambisols using water content and bulk density as predictors.
+
+- GIS Visualization:
+
+        Map the soils with the highest TOC values.
+
 - Conclusions
 
 
 
-# 3. Soil Organic Carbon Prediction
+# 3. Soil texture classifier
 
 - Apply data analysis and processing techniques to the horizons and laboratory datasets:
     - Data cleaning
@@ -31,7 +48,7 @@ To extract data for German soils and analyze their water content, bulk density, 
     - Variable selection
     - Encoding
     - Data balancing 
-- Apply regression models to to classify soil texture effectively and reliably using the minimum number of variables possible
+- Apply regression models to to classify soils by its texture effectively and reliably using the minimum number of variables possible
     - RandomForestClassifier
 
     
