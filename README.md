@@ -22,19 +22,19 @@ Workflow
 
 - Perform Exploratory Data Analysis (EDA):
 
-        Count the number of observations for each soil type and their corresponding TOC values.
+    - Count the number of observations for each soil type and their corresponding TOC values.
 
-        Create scatter plots of TOC versus water content and bulk density for the most common soil type (and optionally for other types).
+    - Create scatter plots of TOC versus water content and bulk density for the most common soil type (and optionally for other types).
 
-        Generate a 3D plot of TOC, water content, and bulk density for the most common soil type.
+    - Generate a 3D plot of TOC, water content, and bulk density for the most common soil type.
 
 - Modeling:
 
-        Apply regression models to predict TOC values in Cambisols using water content and bulk density as predictors.
+    - Apply regression models to predict TOC values in Cambisols using water content and bulk density as predictors.
 
 - GIS Visualization:
 
-        Map the soils with the highest TOC values.
+    - Map the soils with the highest TOC values.
 
 - Conclusions
 
